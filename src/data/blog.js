@@ -3,7 +3,7 @@ import logo from "../assets/logo.svg";
 const blogData = {
   name: "Underreacted",
   image: logo,
-  about: "A blog about learning React",
+  about: "A blog about learning React by Joy Nyawira",
   posts: [
     {
       id: 1,
